@@ -1,0 +1,19 @@
+div{
+    height: 300px;
+    width: 500px;background-color: rgb(166, 156, 175);
+    margin: auto;
+    margin-top: 100px;
+}
+div, h1{
+    color: coral;
+    font-family:serif;
+    text-align: center;
+
+}
+.farat{
+    color: cyan;
+    font-family: sans-serif;
+}
+p{
+    color: dimgray;
+}
